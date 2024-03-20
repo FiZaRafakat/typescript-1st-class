@@ -1,1 +1,1 @@
-"# typescript-1st-class" 
+ typescript 1st class
